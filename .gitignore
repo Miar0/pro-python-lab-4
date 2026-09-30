@@ -1,0 +1,16 @@
+# Віртуальні середовища
+.venv/
+venv/
+env/
+.env
+
+# Кеш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Кеш Mypy
+.mypy_cache/
+
+# Інструменти uv / конфігурації
+.python-version
